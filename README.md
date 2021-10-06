@@ -16,11 +16,18 @@
 
 ## Verificación del Java en mi SO.
 
+```
+java -version
+```
+
 ![Captura de pantalla_2021-10-06_15-18-19](https://user-images.githubusercontent.com/78496018/136228018-1a0eb694-f0e5-4bd7-b363-51fdbe77bf19.jpg)
 
 
 ## Instalación Intelij en Linux
 
+```
+sudo snap install intellij-idea-community --classic
+```
 ![intellij](https://user-images.githubusercontent.com/78496018/136228041-f7c29968-12c0-4f2c-b6ae-57ca52f33406.jpg)
 
 
